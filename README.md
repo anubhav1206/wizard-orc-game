@@ -1,2 +1,1 @@
-# Role-Playing-Game
-A fun little game project from Next Level Javascript module from Scrimba (Module 7)
+# A simple game built on javascript where based on random dice rolls between the wizard and the demons.
