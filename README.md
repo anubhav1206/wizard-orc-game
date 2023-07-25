@@ -1,6 +1,6 @@
 Wizard and orc game
 
-The Javascript-based game is a simple yet captivating adventure that pits a powerful wizard against a horde of menacing demons. The gameplay revolves around the roll of a dice, with each roll determining the amount of damage inflicted on the opponents and their subsequent health reduction. The goal is to deplete the enemy's health bar before your own health reaches zero.
+A Javascript-based game is a simple yet captivating adventure that pits a powerful wizard against a horde of menacing demons. The gameplay revolves around the roll of a dice, with each roll determining the amount of damage inflicted on the opponents and their subsequent health reduction. The goal is to deplete the enemy's health bar before your own health reaches zero.
 
 Both the wizard and the demons possess health bars, representing their vitality in the battle. Whenever the dice is rolled, the value determines the strength of the attack. A higher roll inflicts more damage on the opposing side, deducting from their health. As the battle progresses, players must strategize and make tactical decisions to optimize their dice rolls and mitigate damage.
 
